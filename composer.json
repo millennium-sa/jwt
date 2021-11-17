@@ -1,5 +1,5 @@
 {
-    "name": "millennium/jwt-auth",
+    "name": "millennium-sa/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
